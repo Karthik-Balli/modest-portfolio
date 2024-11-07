@@ -9,8 +9,8 @@ import Javascript from "../assets/Javascript.png";
 import Git from "../assets/Git.png";
 import Vite from "../assets/Vite.png";
 import TailwindCSS from "../assets/TailwindCSS.png";
-import react from "../assets/react.png";
-import Vue from "../assets/vue.png";
+import react from "../assets/React.png";
+import Vue from "../assets/Vue.png";
 
 // Experience Icons
 import WebDev from "../assets/web-development.png";
