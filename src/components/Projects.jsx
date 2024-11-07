@@ -1,4 +1,4 @@
-import Project_prop from "./project_prop";
+import Project_prop from "./Project_prop.jsx";
 import {
   Portfolio,
   PhishDetector,
@@ -70,7 +70,7 @@ const Projects = () => {
           {/*----Project2------*/}
           <Project_prop
             title="Phish Detector"
-            para="t a webpage to identify whether a link is a Phishing Link or a Legitimate one"
+            para="A webpage to identify whether a link is a Phishing Link or a Legitimate one"
             img={PhishDetector}
             link="https://karthik-balli.github.io/PhishDetector/"
             github_link="https://github.com/Karthik-Balli/PhishDetector"
