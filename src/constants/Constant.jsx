@@ -17,7 +17,7 @@ import WebDev from "../assets/web-development.png";
 import MLTrainee from "../assets/machine-learning.png";
 
 // Project Icons
-import PhishDetector from "../assets/phish-detector.png";
+import PhishDetector from "../assets/Phish-detector.png";
 import CGMTrace from "../assets/CGM-trace.png";
 import Portfolio from "../assets/portfolio.jpg";
 
