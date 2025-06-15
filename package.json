@@ -1,5 +1,7 @@
 {
-  "name": "Dhaiyra-Majmudar",
+  "name": "Modest-Portfolio",
+  "description": "A minimalistic portfolio website built with React, showcasing projects and skills.",
+  "author": "Karthik Balli",
   "private": true,
   "version": "0.0.0",
   "type": "module",
