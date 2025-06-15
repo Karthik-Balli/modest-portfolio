@@ -9,15 +9,15 @@ import Javascript from "../assets/Javascript.png";
 import Git from "../assets/Git.png";
 import Vite from "../assets/Vite.png";
 import TailwindCSS from "../assets/TailwindCSS.png";
-import react from "../assets/react.png";
-import Vue from "../assets/vue.png";
+import react from "../assets/React.png";
+import Vue from "../assets/Vue.png";
 
 // Experience Icons
 import WebDev from "../assets/web-development.png";
 import MLTrainee from "../assets/machine-learning.png";
 
 // Project Icons
-import PhishDetector from "../assets/phish-detector.png";
+import PhishDetector from "../assets/Phish-detector.png";
 import CGMTrace from "../assets/CGM-trace.png";
 import Portfolio from "../assets/portfolio.jpg";
 
